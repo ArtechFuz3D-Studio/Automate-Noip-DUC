@@ -1,6 +1,6 @@
 #!/bin/bash
 ## This script will download the Noip Dynamic Update Client and Install it.
-## The installation will include regular user setup for Noip login details and hostname configuration.
+## The installation will pause to allow user setup for Noip login details and hostname configuration.
 ## After installing, the script will create a systemd startup process for the Noip DUC
 
 # First copy the noip2.service file to the correct location
