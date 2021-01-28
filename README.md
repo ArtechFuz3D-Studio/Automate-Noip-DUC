@@ -12,13 +12,13 @@
 
 #### Download the script and extract:
 
-``` sudo wget https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip  ```
+``` sudo wget https://github.com/Neill-H/Automate-Noip-DUC/archive/main.zip  ```
 
-``` sudo unzip https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip ```
+``` sudo unzip https://github.com/Neill-H/Automate-Noip-DUC/archive/main.zip ```
 
 #### To run the script, navigate into the unzipped folder:
 
-``` cd Noip-Dynamic-Update-Client-Automation-with-Startup-Process/main ```
+``` cd Automate-Noip-DUC/main ```
 
 #### and type:
 
