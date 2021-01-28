@@ -18,7 +18,7 @@
 
 #### To run the script, navigate into the unzipped file:
 
-> cd noip-dynamic-update-client-and-systemd-startup-script/main
+> cd Noip-Dynamic-Update-Client-Automation-with-Startup-Process/main
 
 #### and type:
 
