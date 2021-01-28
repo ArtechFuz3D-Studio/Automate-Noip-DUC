@@ -20,11 +20,11 @@
 ``` sudo unzip main.zip ```
 
 
-#### To run the script, navigate into the unzipped folder:
+#### To run the script, navigate into the extracted folder:
 
 ``` cd Automate-Noip-DUC-main ```
 
 
-#### and type:
+#### Run:
 
 ``` sudo bash noip-duc.sh ```
