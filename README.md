@@ -16,7 +16,7 @@
 
 > sudo unzip https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip
 
-#### To run the script, navigate into the unzipped file:
+#### To run the script, navigate into the unzipped folder:
 
 > cd Noip-Dynamic-Update-Client-Automation-with-Startup-Process/main
 
