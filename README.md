@@ -59,4 +59,5 @@
 #### Restart the systemd service
 
 ``` sudo systemctl start noip2 ```
+
 ``` sudo systemctl status noip2 ```
