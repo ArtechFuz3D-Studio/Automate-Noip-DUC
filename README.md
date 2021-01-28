@@ -1,4 +1,4 @@
-A simple script that will automate the download, installation and configuration of the Noip Dynamic Update Client for Ubuntu Linux as well as create a systemd startup process for the client on Ubuntu 20.04.
+A simple script that will automate the download, installation and configuration (with user input for login and domain setup) of the Noip Dynamic Update Client for Ubuntu Linux as well as create a systemd startup process for the client on Ubuntu 20.04.
 
 
 
