@@ -14,11 +14,11 @@
 
 ``` sudo wget https://github.com/Neill-H/Automate-Noip-DUC/archive/main.zip  ```
 
-``` sudo unzip https://github.com/Neill-H/Automate-Noip-DUC/archive/main.zip ```
+``` sudo unzip main.zip ```
 
 #### To run the script, navigate into the unzipped folder:
 
-``` cd Automate-Noip-DUC/main ```
+``` cd Automate-Noip-DUC-main ```
 
 #### and type:
 
