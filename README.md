@@ -8,18 +8,21 @@
 
 #### Install zip:
 
-> sudo apt install zip -y
+``` sudo apt install zip -y ```
 
 #### Download the script and extract:
 
-> sudo wget https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip 
+``` sudo wget https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip  ```
 
-> sudo unzip https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip
+``` sudo unzip https://github.com/Neill-H/Noip-Dynamic-Update-Client-Automation-with-Startup-Process/archive/main.zip ```
 
 #### To run the script, navigate into the unzipped folder:
 
-> cd Noip-Dynamic-Update-Client-Automation-with-Startup-Process/main
+``` cd Noip-Dynamic-Update-Client-Automation-with-Startup-Process/main ```
 
 #### and type:
 
-> sudo bash noip-duc.sh
+``` sudo bash noip-duc.sh ```
+
+
+
