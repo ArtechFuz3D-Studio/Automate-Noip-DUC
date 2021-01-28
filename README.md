@@ -18,8 +18,8 @@
 
 #### To run the script, navigate into the unzipped file:
 
-< cd noip-dynamic-update-client-and-systemd-startup-script/main
+> cd noip-dynamic-update-client-and-systemd-startup-script/main
 
 #### and type:
 
-< sudo bash noip-duc.sh
+> sudo bash noip-duc.sh
