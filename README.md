@@ -3,4 +3,4 @@ A simple script that will automate the download, installation and configuration 
 
 To run the script, download this file and type:
 
-'sudo bash noip-duc.sh'
+<sudo bash noip-duc.sh>
