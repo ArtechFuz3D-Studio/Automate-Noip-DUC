@@ -6,9 +6,12 @@
 
 ### For Ubuntu cli:
 
-#### Install zip:
+#### Prerequisite 
+##### Install Zip:
 
 ``` sudo apt install zip -y ```
+
+
 
 #### Download the script and extract:
 
@@ -16,13 +19,12 @@
 
 ``` sudo unzip main.zip ```
 
+
 #### To run the script, navigate into the unzipped folder:
 
 ``` cd Automate-Noip-DUC-main ```
 
+
 #### and type:
 
 ``` sudo bash noip-duc.sh ```
-
-
-
