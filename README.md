@@ -1,4 +1,4 @@
-# noip-dynamic-update-client-and-systemd-startup-script
+Testing-Please do not use this yet
 A simple script that will automate the download, installation and configuration of the Noip Dynamic Update Client as well as create a systemd startup process for the client.
 
 To run the script, download then navigate into the file and type:
