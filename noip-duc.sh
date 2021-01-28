@@ -41,4 +41,4 @@ sudo systemctl status noip2
 
 # Clean up unused packages
 sudo apt remove make gcc -y
-sudo apt autoremove
+sudo apt autoremove -y
