@@ -46,7 +46,7 @@
 ##### Stop the process:
 
 ``` sudo /usr/local/bin/noip2 -K <PID> ```
-####### Where <PID> is the process ID found in previous command.
+###### Where <PID> is the process ID found in previous command.
 
 #### Run the econfiguration client multiple times to set up multiple accounts:
 
