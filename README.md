@@ -1,24 +1,25 @@
+#### Automate Noip DUC Setup and Startup Process in Ubuntu Server 20.04 LTS
+
+
 ### A simple script that will automate the download, installation and configuration (with user input for login and domain setup) of the Noip Dynamic Update Client for Ubuntu Linux as well as create a systemd startup process for the client on Ubuntu 20.04.
 
 
+## For Ubuntu cli:
 
+# Install zip:
 
-For Ubuntu cli:
+< sudo apt install zip -y
 
-Install zip:
+# Download the script and extract:
 
-  sudo apt install zip -y
+< sudo wget https://github.com/Neill-H/noip-dynamic-update-client-and-systemd-startup-script/archive/main.zip 
 
-Download the script and extract:
+< sudo unzip https://github.com/Neill-H/noip-dynamic-update-client-and-systemd-startup-script/archive/main.zip
 
-  sudo wget https://github.com/Neill-H/noip-dynamic-update-client-and-systemd-startup-script/archive/main.zip 
+# To run the script, navigate into the unzipped file:
 
-  sudo unzip https://github.com/Neill-H/noip-dynamic-update-client-and-systemd-startup-script/archive/main.zip
+< cd noip-dynamic-update-client-and-systemd-startup-script/main
 
-To run the script, navigate into the unzipped file:
+# and type:
 
-  cd noip-dynamic-update-client-and-systemd-startup-script/main
-
-and type:
-
-  sudo bash noip-duc.sh
+< sudo bash noip-duc.sh
