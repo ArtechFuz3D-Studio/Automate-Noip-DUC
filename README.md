@@ -15,6 +15,9 @@
 
 #### Download the script and extract:
 
+``` mkdir noip ```
+``` cd noip ```
+
 ``` sudo wget https://github.com/Neill-H/Automate-Noip-DUC/archive/main.zip  ```
 
 ``` sudo unzip main.zip ```
