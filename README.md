@@ -35,5 +35,6 @@
 ----------------------------------------------------------------------------------
 
 ##### Tested on:
-- Ubuntu Server 20.04 LTS
-- Ubuntu Server 16.04 LTS
+- Ubuntu 20.04 LTS
+- Ubuntu 18.04 LTS
+- Ubuntu 16.04 LTS
