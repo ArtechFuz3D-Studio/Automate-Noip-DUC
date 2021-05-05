@@ -38,3 +38,5 @@
 - Ubuntu 20.04 LTS
 - Ubuntu 18.04 LTS
 - Ubuntu 16.04 LTS
+
+[Make remote access, managed DNS and SSL encrytpion easy with a Noip.com account, free and paid options](https://www.noip.com?fpr=clickonrefresh)
