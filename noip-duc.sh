@@ -36,9 +36,9 @@ sudo systemctl start noip2
 # Enable the Noip service at startup
 sudo systemctl enable noip2
 
-# Clean up unused packages
-sudo apt remove make gcc -y
-sudo apt autoremove -y
+# uncomment to Clean up unused packages if unrequired
+#sudo apt remove make gcc -y
+#sudo apt autoremove -y
 
 # Display status of noip2 service
 sudo systemctl status noip2
