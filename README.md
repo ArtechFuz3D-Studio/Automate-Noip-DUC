@@ -2,7 +2,7 @@
 
 [Watch the video guide](https://youtu.be/YmCwn6cYFAE)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YmCwn6cYFAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/YmCwn6cYFAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 ## A simple script that will automate the download, install and configuration (with user input for login and domain setup) of the Noip Dynamic Update Client for Ubuntu Linux as well as create a systemd startup process for the client running on Ubuntu LTS.
 
