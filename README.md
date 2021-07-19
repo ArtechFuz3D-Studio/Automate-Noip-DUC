@@ -1,5 +1,5 @@
 # Automate the Noip-Dynamic-Update-Client Installation and Noip Startup Process in Ubuntu LTS
-
+[Watch the video guide](https://youtu.be/YmCwn6cYFAE)
 
 ## A simple script that will automate the download, install and configuration (with user input for login and domain setup) of the Noip Dynamic Update Client for Ubuntu Linux as well as create a systemd startup process for the client running on Ubuntu LTS.
 
